@@ -21,9 +21,9 @@
 
 ![img](https://media.discordapp.net/attachments/1044190059596873819/1046449228932714516/image.png)
 
-- 進階版(我有把結果存成json檔)
+- 進階版(我有把結果存成json檔)(要透過選項去進行)
 
-![img](https://media.discordapp.net/attachments/1044190059596873819/1046449430116716554/image.png?width=1193&height=246)
+![img](https://media.discordapp.net/attachments/868759966431973416/1048203865570426951/image.png?width=1193&height=424)
 
 ## 作業心得
 
